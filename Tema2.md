@@ -17,3 +17,4 @@ Tareas por realizar:
 - [x] ~Editar~
 - [ ] Compilar
 - [ ] Ejecutar
+![]( terminal.webp )
