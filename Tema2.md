@@ -11,4 +11,9 @@ En este tema realizaremos las siguientes actividades:
 |Elegimos editor    | - Elegimos compilador     | - Buscamos el archivo ejecutable
 |Abrimos editor     | - Le pasamos código fuente| - Ejecutamos el archivo
 |Escribimos código  | - Ejecutamos compilador   |
-|Guardamos
+|Guardamos | |
+
+Tareas por realizar:
+- [x] ~Editar~
+- [ ] Compilar
+- [ ] Ejecutar
